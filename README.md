@@ -1,12 +1,12 @@
 
-    Identify what aspects of the work have been correctly implemented and what have not.
-    I believe everythin ghas been correctly implemented.
+   Identify what aspects of the work have been correctly implemented and what have not.
+   I believe everythin ghas been correctly implemented.
     
-    Identify anyone with whom you have collaborated or discussed the assignment.
-    I worked alone.
+   Identify anyone with whom you have collaborated or discussed the assignment.
+   I worked with Emma Panullo.
     
-    Say approximately how many hours you have spent completing the assignment.
-    About one hour.
+   Say approximately how many hours you have spent completing the assignment.
+   About one hour.
 
 
 
